@@ -9,5 +9,6 @@ int main() {
     printf("Tong 2 so la: %d", sum);
 
     printf("Day la demo");
+    printf("Day la demo");
     return 0;
 }
