@@ -7,5 +7,7 @@ int main() {
     printf("Nhap b: "); scanf("%d", &b);
     int sum = a + b;
     printf("Tong 2 so la: %d", sum);
+
+    printf("Day la demo");
     return 0;
 }
