@@ -10,5 +10,6 @@ int main() {
 
     printf("Day la demo");
     printf("Day la demo");
+    x = 10;
     return 0;
 }
