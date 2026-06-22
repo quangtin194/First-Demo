@@ -11,5 +11,6 @@ int main() {
     printf("Day la demo");
     printf("Day la demo");
     printf("Xin chao, day la demo2");
+    x = 5;
     return 0;
 }
